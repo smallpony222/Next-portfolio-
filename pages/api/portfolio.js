@@ -57,7 +57,7 @@ const portfolio = [
         id: 0,
         projectName: "HoustParty(web)",
         url: "https://jmm.ltd/",
-        image: "projects/HouseParty1.avif",
+        image: "projects/HouseParty1.png",
         projectDetail: "Web Application: Built a community and video chat platform using React, integrating real-time communication features with WebSocket and WebRTC, and ensuring a seamless user experience.",
         technologiesUsed: [
             {
