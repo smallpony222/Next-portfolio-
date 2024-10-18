@@ -1,16 +1,6 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pony/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/pony/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pony/portfolio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/ipony?style=social)](https://twitter.com/intent/follow?screen_name=ipony)
 
-  <br />
-  <br />
-  
-  <img src="./public/readme-images/moj.png" />
-
-  <h2 align="center">  - Personal portfolio</h2>
+  <h2 align="center"> pony - Personal portfolio</h2>
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
