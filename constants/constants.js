@@ -141,7 +141,7 @@ export const CONTACTS = {
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/smallpony222',
-  // LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  // TWITTER: 'https://twitter.com/iosamajavaid',
-  // FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  LINKEDIN: '',
+  TWITTER: '',
+  FACEBOOK: ''
 };
