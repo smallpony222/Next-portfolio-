@@ -42,7 +42,7 @@ const Contact = () => {
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Phone:</span>
-                                <span className='text-LightGray text-sm'>+1 (469) 6383235</span>
+                                <span className='text-LightGray text-sm'>+1 (469) 6382456</span>
                             </div>
                         </div>
                     </div>

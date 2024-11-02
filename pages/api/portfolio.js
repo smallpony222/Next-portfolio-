@@ -57,7 +57,7 @@ const portfolio = [
         id: 0,
         projectName: "HoustParty(web)",
         url: "https://jmm.ltd/",
-        image: "projects/HouseParty1.png",
+        image: "projects/houseparty1.png",
         projectDetail: "Web Application: Built a community and video chat platform using React, integrating real-time communication features with WebSocket and WebRTC, and ensuring a seamless user experience.",
         technologiesUsed: [
             {
@@ -78,7 +78,7 @@ const portfolio = [
         id: 0,
         projectName: "HouseParty(app)",
         url: "https://alsn.app/",
-        image: "projects/HouseParty2.png",
+        image: "projects/houseparty2.png",
         projectDetail: "Mobile Application: Developed the mobile version, optimizing UI for mobile devices and maintaining real-time communication functionalities.",
         technologiesUsed: [
             {

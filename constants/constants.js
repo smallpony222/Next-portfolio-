@@ -136,12 +136,12 @@ export const technologies = {
 
 
 export const CONTACTS = {
-  EMAIL: 'alfredogarza@gmail.com',
-  PHONE: '+14696383235',
+  EMAIL: 'alfredogarza213241@gmail.com',
+  PHONE: '+14696382456',
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/smallpony222',
-  LINKEDIN: '',
+  LINKEDIN: 'https://www.linkedin.com/in/alfredo-garza-9551a4336/',
   TWITTER: '',
   FACEBOOK: ''
 };
