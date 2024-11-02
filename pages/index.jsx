@@ -10,7 +10,7 @@ const home = () => {
             <Banner />
             <MyExpertise />
             <Skills/>
-            <Recommendations />
+            {/* <Recommendations /> */}
             {/* <ClientReviews /> */}
             <Footer />
 
